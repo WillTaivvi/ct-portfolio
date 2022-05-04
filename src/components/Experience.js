@@ -5,23 +5,24 @@ const Experience = () => {
 
             <ul>
                 <li>
-                    <i>Dapp University</i>, 2021-2022
+                    <i><strong>USCG Electroncis Engineering</strong></i>, 1999-2001
                     <ul>
-                        <li>Graduated with 4.00 GPA</li>
+                        <li>Top Secret Security Clearance</li>
+                        <li>Component and Code Level Design and Troublshooting</li>
                     </ul>
                 </li>
                 <li>
-                    <i>TechFlow</i> - <strong>Blockchain Developer Intern</strong>, 2018-2019
+                    <i><strong>Independent Technical Contractor - Small Business Owner/ Manager</strong></i>, 2002-Current
                     <ul>
-                        <li>Studied DApp development</li>
-                        <li>Assisted Research &amp; Development on Web3 Products</li>
+                        <li>Launched or Managed Numerous Small Businesses in Many States</li>
+                        <li>While also Maintaining Secondary Contracting in Technical and Customer Service Focused Industries</li>
                     </ul>
                 </li>
                 <li>
-                    <i>SpiderChain</i> - <strong>Blockchain Developer</strong>, 2019-2022
+                    <i><strong>Web Developer/ Graphic Designer </strong></i>, 1997-Current
                     <ul>
-                        <li>Contributed to smart contract development on client's platform</li>
-                        <li>Peer reviewed &amp; Audited Solidity code</li>
+                        <li>Learned Photoshop Before it Had Layers</li>
+                        <li>Built SEO Focused Websites for Small to Medium Companies</li>
                     </ul>
                 </li>
             </ul>
